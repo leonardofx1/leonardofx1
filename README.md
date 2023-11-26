@@ -1,15 +1,14 @@
 ### Ola Eu sou o Leonardo Nunes 👋
 
-- 🔭 Desenvolvedor Front End...
+- ## Desenvolvedor Front End...
 -  <strong>Em Busca de Uma  Oportunidade</strong>
--  <strong>Principais tecnologias</strong>
-    <div style="display: inline_block"><br>
-      <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div>
+  #  Principais stacks
+   <div style="display: inline_block"><br>
+       <img align="center" alt="Leo-CSS"  src="https://skillicons.dev/icons?i=react,javascript,typescript,firebase,vite,styledcomponents,html,css,scss&theme=dark">
+    </div><br>
+   
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/leonardofx1">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardofx1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofx1&layout=compact&langs_count=7&theme=dark"/>
